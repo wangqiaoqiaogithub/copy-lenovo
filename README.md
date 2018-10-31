@@ -7,6 +7,6 @@
 <br/>
 〜对懒加载进行了闭包和封装
 <br/>
-~欢迎star、fork、star、(https://assets-cdn.github.com/images/icons/emoji/unicode/1f601.png)
+~欢迎star、fork、star、![](https://assets-cdn.github.com/images/icons/emoji/unicode/1f601.png)
 # 预览
 对这个感兴趣的宝宝可以自行下载学习
