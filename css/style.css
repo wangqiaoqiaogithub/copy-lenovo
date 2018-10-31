@@ -1,4 +1,4 @@
-@charset"utf-8";
+﻿@charset"utf-8";
 .container{
 	width: 100%;
 	overflow: hidden;
@@ -89,7 +89,7 @@ input[type="text"]{
 .banner{
 	width: 10000%;
 	position: absolute;
-	height: 420px;
+	height: 100%;
 }
 .banner li{
 	position: absolute;
@@ -100,7 +100,7 @@ input[type="text"]{
 	height: 520px;
 }
 .banner-button{
-	width: 1349px;
+	width: 100%;
 	position: absolute;
 	top: 50%;
 }
