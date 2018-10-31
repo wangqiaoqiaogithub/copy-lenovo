@@ -1,0 +1,151 @@
+@charset"utf-8";
+html,body{
+	background: #eaeaea;
+}
+body,div,ul,ol,li,p,a,h1,h2,h3,h4,h5,h6,input,form{
+	margin: 0;
+	padding: 0;
+}
+p{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+.clearfix:after{
+	 content:"."; 
+	display:block; 
+	height:0; 
+	clear:both; 
+	visibility:hidden;
+}
+.clearfix{zoom:1}
+.wrapper{
+	width: 1295px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.wrapper1{
+	display: flex;
+	width:1340px;
+	margin: 0 auto;
+	justify-content: space-around;
+}
+.wrapper2{
+	display: flex;
+	width:1340px;
+	margin: 0 auto;
+	justify-content: space-between;
+}
+.wrapper3{
+	display: flex;
+	width:1348px;
+	margin: 0 auto;
+	justify-content: space-between;
+}
+.wrapper4{
+	display: flex;
+	width: 2500px;	
+	margin: 0 auto;
+	justify-content: space-between;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.mt40{
+	margin-top: 40px;
+}
+.active1{
+	color: #000;
+	transition: all ease 1s;
+}
+.center3bannerbox{
+	width: 100%;
+	overflow: hidden;
+}
+.c4tp_1{
+	font-size: 35px;
+	color: #fff;
+	padding-bottom: 20px;
+}
+.c4img{
+	width: 700px;
+}
+.bslp{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 65px;
+    color: #fff;
+	background: #333;
+	padding: 10px;
+}
+.bslcontent{
+	position: absolute;
+	bottom: 20%;
+	left: 0;
+	width: 700px;
+}
+.bsla{/*a标签默认为块级元素*/
+	display: inline-block;
+	/*width: 110px;*/
+	height: 48px;
+	background: rgba(255,0,0,.5);
+	padding: 10px 15px;
+	color: #fff;
+	text-align: center;
+	line-height: 3em;
+	margin-left: 5px;
+	transition: all ease 1s;
+}
+.bsla:hover{
+	background: rgb(255,0,0);
+}
+.c5bwrapper{
+	width: 1100px;
+	margin: 0 auto;
+}
+.c6tp_1{
+	font-size: 35px;
+	color: #333;
+	margin: 20px;
+}
+.btwrapper{
+	width: 1200px;
+	margin: 0 auto;
+}
+.transpive{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+#jibrower{
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #333;
+	z-index: 64;
+}
+.jbh1{
+	color: #fff;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+.jibimg{
+	width: 400px;
+	height: 500px;
+	margin-top: 3%;
+}
+.tc{
+	text-align: center;
+}
