@@ -11,4 +11,6 @@
 <br/>
 ![](https://assets-cdn.github.com/images/icons/emoji/unicode/1f601.png)
 # 预览
-对这个感兴趣的宝宝可以自行下载学习
+* 因为其他的条件限制的原因,不能上传图片,里面绝对包含了大多数摸板中常见的js控件
+* 对这个感兴趣的宝宝可以自行下载学习
+<br/>
