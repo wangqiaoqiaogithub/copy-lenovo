@@ -8,7 +8,6 @@
 〜对懒加载进行了闭包和封装
 <br/>
 ~欢迎star、fork、star、
-<br/>
 ![](https://assets-cdn.github.com/images/icons/emoji/unicode/1f601.png)
 # 预览
 * 因为其他的条件限制的原因,不能上传图片,里面绝对包含了大多数摸板中常见的js控件  
